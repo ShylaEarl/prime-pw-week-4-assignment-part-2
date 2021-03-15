@@ -1,3 +1,29 @@
 body{
   background-color: red;
 }
+
+.header{
+  background-color: purple;
+  color: antiquewhite;
+  text-shadow: 2px 2px black;
+}
+
+.info{
+  border: solid black;
+  border-radius: 25px;
+}
+
+.info h2, h3{
+  background-color: purple;
+  color: antiquewhite;
+  text-align: center;
+  text-shadow: 2px 2px black;
+  margin: 10px;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%
+}
