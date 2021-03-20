@@ -19,6 +19,7 @@ body{
   text-align: center;
   text-shadow: 2px 2px black;
   margin: 10px;
+  border-radius: 10px;
 }
 
 .center{
